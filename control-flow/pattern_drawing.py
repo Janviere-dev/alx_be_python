@@ -1,4 +1,4 @@
-user = int(input(" Enter the size of the pattern:"))
+user = int(input("Enter the size of the pattern:"))
 for i in range(user):
     # Outer loop controls the number of rows
     for j in range(user):

@@ -23,6 +23,7 @@ for i in range(1, 11):
   print()  # Move to a new line after each row
 
 #   printing right triangle pattern
+rows = 5
 
 for i in range(1, rows + 1):
   # Outer loop controls the number of rows

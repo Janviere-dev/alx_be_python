@@ -16,4 +16,3 @@ def calculate_future_date():
 
 # Run the functions
 display_current_datetime()
-calculate_future_date()
